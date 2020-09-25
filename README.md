@@ -1,2 +1,3 @@
 # Dinos
- Udacity JS project #1
+
+ Final project for Udacity "Intermediate JavaScript" course
