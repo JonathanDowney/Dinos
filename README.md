@@ -1,3 +1,3 @@
 # Dinos
 
- Final project for Udacity "Intermediate JavaScript" course
+ A silly JavaScript application.
