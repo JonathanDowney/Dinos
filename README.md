@@ -1,3 +1,3 @@
 # Dinos
 
- A silly JavaScript application.
+ A fun JavaScript application.
