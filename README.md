@@ -1,3 +1,4 @@
 # Dinos
 
- A fun JavaScript application.
+A fun paleontological web app
+
